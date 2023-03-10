@@ -1,4 +1,4 @@
 # Github-Favoritos
 🤩 GitHubs 😊
 
-Site: https://gustavo-moller.netlify.app/
+Site: gustavo-moller-github.netlify.app
